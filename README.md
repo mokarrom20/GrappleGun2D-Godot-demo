@@ -1,6 +1,5 @@
 # GrappleGun2D in Godot(just a demo)
 This is a simple demo of a Grapple Gun 2D i made in Godot.  
-*At first it had some problems with tilemaps but finally i fixed it(somehow)*
 
 btw **feel free to copy scripts and use it in your project :)**
 
@@ -22,3 +21,6 @@ if you are interested and got a bit of time, feel free to check out [my channel]
 i normally upload **GameDev** related stuff and also **Music(sometimes)**  
 
 this project is also an *updated* version of on of my video : [Grappling Gun 2D in Godot [in 2 minute]](https://youtu.be/XhaCuXV99ds)  
+
+*At first it had some problems with tilemaps but finally i fixed it(somehow)*  
+The 'GrappleGun(Demo)' folder is actually the Godot Project  
